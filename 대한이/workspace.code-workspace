@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\Bitnami\\wampstack-8.0.3-1\\apache2\\htdocs"
+		},
+		{
+			"path": "..\\..\\..\\..\\Bitnami\\wampstack-8.0.3-1"
+		}
+	],
+	"settings": {}
+}
